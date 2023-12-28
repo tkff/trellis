@@ -216,4 +216,9 @@ Vagrant.configure('2') do |config|
     lv.cpus = vconfig.fetch('vagrant_cpus')
     lv.memory = vconfig.fetch('vagrant_memory')
   end
+
+  # Docker settings
+  config.vm.provider 'docker' do |d|
+    d.build_dir = "."
+  end
 end
