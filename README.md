@@ -33,5 +33,8 @@ Trellis is a collection of Ansible playbooks for setting up a LEMP stack for Wor
 ## Getting Started
 
 See the [Trellis installation documentation](https://roots.io/trellis/docs/installation/).
-When starting Vagrant use docker as provider. Only local dev is run under Docker
+
+When starting Vagrant use docker as provider. 
+
+Only local dev is running under Docker
 
