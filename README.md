@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://roots.io/trellis/">
     <img alt="Trellis" src="https://cdn.roots.io/app/uploads/logo-trellis.svg" height="100">
@@ -38,3 +39,5 @@ When starting Vagrant use docker as provider.
 
 Only local dev is running under Docker
 
+=======
+Trellis fork modifyed to use docker as vagrant provider
